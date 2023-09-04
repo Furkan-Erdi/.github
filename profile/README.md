@@ -1,14 +1,15 @@
-## Hi there 👋
+## Selam 👋
 
-<!--
+Merhaba! Ben Furkan Erdi, YouTube kanalımın Github sayfasına hoş geldiniz. Genellikle Python programlama, veri bilimi ve makine öğrenimi konuları ile içerikler üretiyor ve üretmeyi planlıyorum. Eğitim videoları aracılığıyla, yazılım geliştirme ve veri analizi konularında becerilerinizi geliştirmenize yardımcı olmayı amaçlıyorum, umarım işinize yarar :)
 
-**Here are some ideas to get you started:**
+![](https://komarev.com/ghpvc/?username=Furkan-Erdi) 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Kanalıma abone olarak, yazılım dünyasında kendinizi geliştirebilirsiniz. Ayrıca GitHub organizasyonumda proje kaynak kodlarına erişebilir ve daha fazla materyale ulaşabilirsiniz.
 
-![](https://komarev.com/ghpvc/?username=Furkan-Erdi)
+## İletişim
+
+Soru sormak, önerilerde bulunmak veya yeni içerik isteklerinizi iletmek için iletişime geçebilirsiniz. Sosyal medya hesapları ve iletişim bilgilerimiz aşağıda yer alıyor:
+
+- [YouTube Kanalı](https://www.youtube.com/@furkanerdi)
+
+Kanalıma abone olarak, en güncel eğitim videolarından haberdar olun ve yazılım dünyasında daha ileri gitmek için adım atın. Teşekkür ederim ve iyi öğrenmeler dilerim!
