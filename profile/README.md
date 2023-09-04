@@ -6,13 +6,11 @@
 
 Merhaba! Ben Furkan Erdi, YouTube kanalımın Github sayfasına hoş geldiniz. Genellikle Python programlama, veri bilimi ve makine öğrenimi konuları ile içerikler üretiyor ve üretmeyi planlıyorum. Eğitim videoları aracılığıyla, yazılım geliştirme ve veri analizi konularında becerilerinizi geliştirmenize yardımcı olmayı amaçlıyorum, umarım işinize yarar :)
 
-- [YouTube Kanalı](https://www.youtube.com/@furkanerdi)
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" href="https://www.youtube.com/@furkanerdi"/>
 </div>
-![](https://komarev.com/ghpvc/?username=Furkan-Erdi) 
 
+![](https://komarev.com/ghpvc/?username=Furkan-Erdi) 
 
 <h3 align="left">🛠 Teknolojiler</h3>
 
